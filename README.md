@@ -1,4 +1,4 @@
-# Big-Data-Processing || YAFIM - Yet Another Frequent Itemset Mining
+# Big-Data-Processing
 
 # 🔍 YAFIM: Yet Another Frequent Itemset Mining Algorithm Using Spark
 
