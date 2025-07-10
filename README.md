@@ -30,7 +30,7 @@ This project implements a parallel version of the **Apriori algorithm** for **fr
    - Place `mushroom.dat` inside your Google Drive (e.g., `/MyDrive/Big data/mushroom.dat`).
 
 2. **Open Notebook**  
-   Open `YAFIM_Colab.ipynb` in Google Colab.
+   Open `AFIM-DataMining_Mushroom.ipynb` in Google Colab.
 
 3. **Install Spark**  
    ```python
